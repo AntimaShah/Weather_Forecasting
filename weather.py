@@ -161,7 +161,7 @@ if(st.button("SUBMIT")):
         st.header(' ')
         st.header(' ')
         st.markdown("Made by :star: : ")
-        st.markdown("Antima Shah and Sujeet Yadav")
+        st.markdown("Antima Shah")
  
     except KeyError:
         st.error(" Invalid city!!  Please try again !!")
